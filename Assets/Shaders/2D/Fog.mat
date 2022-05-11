@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fog
+  m_Shader: {fileID: -6465566751694194690, guid: e310381cf58a8174bb09371f33ecda4e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3884e2a990eb4472917921d184810932: 1
+    - Vector1_91f864e81aed4f7e9ab7459a0ab083b2: 142.8
+    - Vector1_c5fba7816bea4177a6c58ff8feb5d584: 1.7
+    m_Colors:
+    - Color_2e2061833a2845fdacfdf86b74176809: {r: 1, g: 1, b: 1, a: 1}
+    - Color_ffaf1d5b3f6645c7a99e4af0bb387a7a: {r: 0.19093895, g: 1, b: 0, a: 1}
+  m_BuildTextureStacks: []
